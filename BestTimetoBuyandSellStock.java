@@ -1,3 +1,9 @@
+
+/*
+* Copyright (C) 2026 Ajay Dhage
+* SPDX-License-Identifier: MIT
+*/
+
 class BestTimetoBuyandSellStock {
     public int maxProfit(int[] prices) {
         // Track minimum price and maximum profit
